@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <title>dylanking</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="style.css?version=2" />
+  </head>
+  
+  <body>
+    <h1>My First Heading</h1>
+    
+    <img src="wave-pic.jpg" width="100%">
+    
+     <div>
+      <audio controls>
+          <source src="xy.wav" type="audio/wav">
+          Your browser does not support the audio tag.
+      </audio>
+    </div>
